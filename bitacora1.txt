@@ -1,0 +1,29 @@
+commit 865f68cc1ffae1426fcc0d2b6810ca70e2aadef2
+Author: Emmanuel Gonzalez <jegonzalez@gasmart.com.mx>
+Date:   Wed Nov 1 14:16:33 2017 -0700
+
+    agregando guitarra clasica
+
+commit 35ddc594cd1ef7035b0856be9936100e941914fe
+Author: Emmanuel Gonzalez <jegonzalez@gasmart.com.mx>
+Date:   Wed Nov 1 14:12:12 2017 -0700
+
+    agregando guitarra acustica
+
+commit 0125b2c9dabb39ffa6ca0ea72e61da0fc14ec118
+Author: Emmanuel Gonzalez <jegonzalez@gasmart.com.mx>
+Date:   Wed Nov 1 14:11:09 2017 -0700
+
+    Sumando nuevo hero
+
+commit 6ec48e411bfc396c482712e86b7859d88c536941
+Author: Emmanuel Gonzalez <jegonzalez@gasmart.com.mx>
+Date:   Wed Nov 1 13:29:38 2017 -0700
+
+    Agregando el header
+
+commit ce02537bb05feb39dd029d95d0660dc4cae05e2f
+Author: Emmanuel Gonzalez <jegonzalez@gasmart.com.mx>
+Date:   Wed Nov 1 13:20:38 2017 -0700
+
+    inicializar nuestro landing
